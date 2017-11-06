@@ -6,7 +6,7 @@
     "email": "josh@btcmintus.com",
     "phone": "9712169677",
     "website": "cryptocurrency.wiki",
-    "summary": "Over the past 5 years I have continuously challenged myself with new languages, frameworks and methodologies. I had the first legal Bitcoin ATM in the state of Oregon in 2014, since then I have been living and breathing the technology and software underlying crypto currency and the new financial markets.",
+    "summary": "Over the past 5 years I have continuously challenged myself with new languages, frameworks and methodologies. I had the first legal Bitcoin ATM in the state of Oregon in 2014 and since then, have been living and breathing the technology and software underlying cryptocurrency. I learn and build out of curiousity and necessity.",
     "location": {
       "address": "Portland",
       "postalCode": "2232",
@@ -35,15 +35,18 @@
       "position": "Cofounder",
       "website": "http://btcmintus.com",
       "startDate": "2014-01-01",
-      "endDate": "2017-04-01",
-      "summary": "Launched the first legally approved by the State of Oregon Division of Fincial Regulation in 2014, exited and sold the machines and business process in early 2017.",
+      "endDate": "2017-05-01",
+      "summary": "Launched the first Bitcoin ATM to be legally approved by the State of Oregon Division of Fincial Regulation in 2014, exited and sold the machines and business process in the latter half of 2017.",
       "highlights": [
+        "Legal State Approval in a nascent technology 3 years before the first big boom(now)",
         "Fincen Registration",
-        "State Approval",
-        "Machine placement and contract negotiations",
+        "Banking Secrecy Act Standard Operating Principles and Procedures adhering to all Federal and State law",
+        "Machine placement and contract negotiations with business owners",
         "Access control with HSM (Yubikey) and OpenPGP used as SSH", 
-        "Security of bitcoin hot-wallet on Amazon AWS with zero hacks or thefts in 3 years of operations with significant bitcoin value targets",
-        "Social media and marketing materials creation"
+        "Critical information backup and disaster recovery systems and process implementation",
+        "Security of bitcoin hot-wallet on Amazon AWS with zero hacks or thefts in 3 years of operations with significant bitcoin value as a target",
+        "Social media and marketing materials creation",
+        "Negotiation of terms relating to business sale"
       ]
     },
     {
