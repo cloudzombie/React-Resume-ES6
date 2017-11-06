@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Josh Fisher",
-    "label": "Crypto Wizard",
+    "label": "Development Operations Engineer",
     "picture": "./profilePhoto.jpg",
     "email": "josh@btcmintus.com",
     "phone": "9712169677",
     "website": "cryptocurrency.wiki",
-    "summary": "Over the past 7 years I have continuously challenged myself with new languages, frameworks and methodologies. I had the first legal Bitcoin ATM in the state of Oregon in 2014, since then I have been living and breathing crypto currency and financial markets.",
+    "summary": "Over the past 5 years I have continuously challenged myself with new languages, frameworks and methodologies. I had the first legal Bitcoin ATM in the state of Oregon in 2014, since then I have been living and breathing the technology and software underlying crypto currency and the new financial markets.",
     "location": {
       "address": "Portland",
       "postalCode": "2232",
@@ -22,6 +22,10 @@
         "network": "Github",
         "username": "cloudzombie",
         "url": "https://github.com/cloudzombie"
+      },
+      {
+        "network": "Linkedin",
+        "username": "joshkfisher"
       }
     ]
   },
@@ -36,24 +40,44 @@
       "highlights": [
         "Fincen Registration",
         "State Approval",
-        "1,500 BTC volume in first year of operations",
+        "Machine placement and contract negotiations",
         "Access control with HSM (Yubikey) and OpenPGP used as SSH", 
-        "Security of bitcoin hot-wallet on Amazon AWS with zero hacks or thefts in 3 years of operations with significant bitcoin value targets"
+        "Security of bitcoin hot-wallet on Amazon AWS with zero hacks or thefts in 3 years of operations with significant bitcoin value targets",
+        "2,500 BTC total sell through volume before sale"
       ]
     },
     {
-      "company": "OrCalOkie",
+      "company": "OrCalOkie - SCOJO Oil & Gas",
       "position": "Mineral Title Researcher",
       "website": "",
-      "startDate": "2011-03-01",
+      "startDate": "2010-03-01",
       "endDate": "2013-08-01",
       "summary": "General title and due diligence rerporting of all mineral rights, as well as surface rights for energy industry production or supply line purposes.",
       "highlights": [
-        "PipelineXXL Right of way and mineral title"
+        "S-T-R From Government issued patent title",
+        "Confidentiality of ownership chain in surface ownership reports",
+        "Ownership Reports for well-site production"
+      ]
+    },
+    {
+      "company": "Fisher Land Management",
+      "position": "General Manager",
+      "website": "",
+      "startDate": "2010-03-01",
+      "endDate": "2045-01-01",
+      "summary": "General land invetment trust, bought distressed properties in 2008 crash to rehabilitate and rent long-term, management is overseen by my younger brother whom lives in OKC.",
+      "highlights": [
+        "Resource allocation for long-term maintenance and utility operations",
+        "Final Vetting of new acquisitions",
+        "Construction timelines management"
       ]
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    "Bitcoin",
+    "Ethereum",
+    "EOS"
+  ],
   "education": [
     {
       "institution": "Berklee College of Music",
@@ -72,11 +96,12 @@
       "name": "Blockchain Engineer",
       "level": "Serf",
       "keywords": [
-        "Blockchain",
+        "All Technology",
+        "Development Operations",
         "C++",
         "Community Development",
         "Open Source",
-        "Particle",
+        "Particle -IoT",
         "Hardware Management",
         "Windows",
         "Ubuntu",      
