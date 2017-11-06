@@ -32,7 +32,7 @@
   "work": [
     {
       "company": "BTC Mint US",
-      "position": "Founder",
+      "position": "Cofounder",
       "website": "http://btcmintus.com",
       "startDate": "2014-01-01",
       "endDate": "2017-04-01",
@@ -43,7 +43,7 @@
         "Machine placement and contract negotiations",
         "Access control with HSM (Yubikey) and OpenPGP used as SSH", 
         "Security of bitcoin hot-wallet on Amazon AWS with zero hacks or thefts in 3 years of operations with significant bitcoin value targets",
-        "2,500 BTC total sell through volume before sale"
+        "Social media and marketing materials creation"
       ]
     },
     {
