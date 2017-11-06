@@ -56,7 +56,7 @@
     "whatwg-fetch": "1.0.0"
   },
 
-  "homepage": "http://joshfisher.me",  
+  "homepage": "joshfisher.me",  
 
   "dependencies": {
     "moment": "^2.18.1",
